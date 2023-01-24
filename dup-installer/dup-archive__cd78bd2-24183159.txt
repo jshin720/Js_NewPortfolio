@@ -1,0 +1,772 @@
+{
+    "dup_type": "lite",
+    "created": "2023-01-24 18:31:59",
+    "version_dup": "1.5.1",
+    "version_wp": "6.1.1",
+    "version_db": "10.5.15",
+    "version_php": "8.0.24",
+    "version_os": "Linux",
+    "blogname": "jeffshinportfolio",
+    "exportOnlyDB": 0,
+    "secure_on": false,
+    "secure_pass": "$2a$08$qgzIePZiXBhJvDG9XxrcLeSlkiUVeuoLTG\/IgO00vz7X5zdb51coK",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "dbpass": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "jeffshinportfolio.com",
+            "path": "\/",
+            "blogname": "jeffshinportfolio",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "jeffshin720",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/jeffshinportfolio.com",
+            "fullSiteUrl": "https:\/\/jeffshinportfolio.com",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/jeffshinportfolio.com\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "dbInfo": {
+        "buildMode": "MYSQLDUMP",
+        "charSetList": [
+            "utf8mb4"
+        ],
+        "collationList": [
+            "utf8mb4_unicode_520_ci",
+            "utf8mb4_unicode_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "u533731823_6raqd",
+        "tablesBaseCount": 26,
+        "tablesFinalCount": 26,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 1377,
+        "tablesSizeOnDisk": 13959168,
+        "tablesList": {
+            "wp_actionscheduler_actions": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 131072
+            },
+            "wp_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_actionscheduler_groups": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_actionscheduler_logs": {
+                "inaccurateRows": 22,
+                "insertedRows": 22,
+                "size": 49152
+            },
+            "wp_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_comments": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 98304
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 65536
+            },
+            "wp_e_events": {
+                "inaccurateRows": 17,
+                "insertedRows": 17,
+                "size": 32768
+            },
+            "wp_e_submissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 294912
+            },
+            "wp_e_submissions_actions_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wp_e_submissions_values": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_litespeed_url": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_litespeed_url_file": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "wp_options": {
+                "inaccurateRows": 560,
+                "insertedRows": 569,
+                "size": 9568256
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 604,
+                "insertedRows": 624,
+                "size": 2637824
+            },
+            "wp_posts": {
+                "inaccurateRows": 90,
+                "insertedRows": 90,
+                "size": 196608
+            },
+            "wp_smush_dir_images": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_snippets": {
+                "inaccurateRows": 4,
+                "insertedRows": 4,
+                "size": 49152
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 49152
+            },
+            "wp_terms": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 49152
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 20,
+                "insertedRows": 20,
+                "size": 32768
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 49152
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 23,
+                "insertedRows": 23,
+                "size": 49152
+            },
+            "wp_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 65536
+            },
+            "wp_wpforms_tasks_meta": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 16384
+            }
+        },
+        "varLowerCaseTables": "0",
+        "dbEngine": "MariaDB",
+        "version": "10.5.15",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 3,
+        "packageName": "20230124_jeffshinportfolio",
+        "packageHash": "cd78bd2-24183159",
+        "secondaryHash": "a0ff0de-24183159"
+    },
+    "fileInfo": {
+        "dirCount": 8936,
+        "fileCount": 43443,
+        "size": 65893051
+    },
+    "wpInfo": {
+        "version": "6.1.1",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html",
+        "targetPaths": [
+            "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "jeffshin720",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "L\/;VAeFT(`; tsH4#jXN[2k+%t{25K6p(GQ@~1i3guZSDFqs&k$AY(P=H74H^r!y",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": ".6f?O>yhVjdGI[iHR>Nq9UppI2eyP$WB|gGeqo[k2,%vs-IG7;kYo~D!gvaK79$|",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "@ZybCQj%M<8r5HQ}Jf}{,3aMu*Xo~&AEJeiU?eF:QX\/\/R|R<jCh93Y?40,gaD%y~",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "FZ@:jI>r-o?Fn`1Ck<oev$p#=!1$sFwT{:>[EuQR#l=vyw&NUw*5+y:rp+S()U{k",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "V1IP!`a%iIvsa&)2[$pZbAvx|0]fA(s :9UI Qh$(QI}x>WEz%00&w*$|;hk];x9",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "c@~GYnoo_4W0G;|0UaR}3Q45dv8:)N> _~#VF h3mzYX*4BA117l?D=gCiHX5Q+%",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "@B1syXyKrkRSQDg$|Y:82!,m~=oHZ{$J]7&}FDjj,MgaB:=zCU@,lhIK!>S#SvFW",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "K)Fgd5&SgIk>4C<- 4=Pgp<xD(n1_:0<Rp-<[G;!x#+6a,hhFRpVuJv^>:E&4Ogk",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/jeffshinportfolio.com\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/jeffshinportfolio.com\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "1536M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_DIR": {
+                    "value": 493,
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 420,
+                    "inWpConfig": false
+                },
+                "FS_METHOD": {
+                    "value": "direct",
+                    "inWpConfig": true
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/themes\/astra",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/themes\/astra",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_AUTO_UPDATE_CORE": {
+                    "value": "minor",
+                    "inWpConfig": true
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/jeffshinportfolio.com\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/jeffshinportfolio.com",
+                "homeUrl": "https:\/\/jeffshinportfolio.com",
+                "loginUrl": "https:\/\/jeffshinportfolio.com\/wp-login.php",
+                "contentUrl": "https:\/\/jeffshinportfolio.com\/wp-content",
+                "uploadBaseUrl": "https:\/\/jeffshinportfolio.com\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/jeffshinportfolio.com\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/jeffshinportfolio.com\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/jeffshinportfolio.com\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html",
+                    "abs": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html",
+                    "wpconfig": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html",
+                    "wpcontent": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content",
+                    "uploads": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html",
+                    "abs": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html",
+                    "wpconfig": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html",
+                    "wpcontent": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content",
+                    "uploads": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "all-in-one-wp-migration\/all-in-one-wp-migration.php": {
+                "slug": "all-in-one-wp-migration\/all-in-one-wp-migration.php",
+                "name": "All-in-One WP Migration",
+                "version": "7.70",
+                "pluginURI": "https:\/\/servmask.com\/",
+                "author": "ServMask",
+                "authorURI": "https:\/\/servmask.com\/",
+                "description": "Migration tool for all your blog data. Import or Export your blog content with a single click.",
+                "title": "All-in-One WP Migration",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "code-snippets\/code-snippets.php": {
+                "slug": "code-snippets\/code-snippets.php",
+                "name": "Code Snippets",
+                "version": "3.2.2",
+                "pluginURI": "https:\/\/codesnippets.pro",
+                "author": "Code Snippets Pro",
+                "authorURI": "https:\/\/codesnippets.pro",
+                "description": "An easy, clean and simple way to run code snippets on your site. No need to edit to your theme's functions.php file again!",
+                "title": "Code Snippets",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.1",
+                "pluginURI": "https:\/\/snapcreek.com\/duplicator\/duplicator-free\/",
+                "author": "Snap Creek",
+                "authorURI": "http:\/\/www.snapcreek.com\/duplicator\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "3.10.1",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "Hostinger\/hostinger.php": {
+                "slug": "Hostinger\/hostinger.php",
+                "name": "Hostinger",
+                "version": "1.0.2",
+                "pluginURI": "https:\/\/www.hostinger.com",
+                "author": "Hostinger",
+                "authorURI": "https:\/\/www.hostinger.com",
+                "description": "Hostinger WordPress plugin.",
+                "title": "Hostinger",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "litespeed-cache\/litespeed-cache.php": {
+                "slug": "litespeed-cache\/litespeed-cache.php",
+                "name": "LiteSpeed Cache",
+                "version": "5.3.2",
+                "pluginURI": "https:\/\/www.litespeedtech.com\/products\/cache-plugins\/wordpress-acceleration",
+                "author": "LiteSpeed Technologies",
+                "authorURI": "https:\/\/www.litespeedtech.com",
+                "description": "High-performance page caching and site optimization from LiteSpeed",
+                "title": "LiteSpeed Cache",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "maintenance\/maintenance.php": {
+                "slug": "maintenance\/maintenance.php",
+                "name": "Maintenance",
+                "version": "4.07",
+                "pluginURI": "https:\/\/wpmaintenancemode.com\/",
+                "author": "WebFactory Ltd",
+                "authorURI": "https:\/\/www.webfactoryltd.com\/",
+                "description": "Put your site in maintenance mode, away from the public view. Use maintenance plugin if your website is in development or you need to change a few things, run an upgrade. Make it only accessible to logged in users.",
+                "title": "Maintenance",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "pro-elements\/pro-elements.php": {
+                "slug": "pro-elements\/pro-elements.php",
+                "name": "PRO Elements",
+                "version": "3.8.0",
+                "pluginURI": "https:\/\/proelements.org\/",
+                "author": "PROElements.org",
+                "authorURI": "https:\/\/proelements.org\/",
+                "description": "This plugin enables GPL features of Elementor Pro: widgets, theme builder, dynamic colors & content, forms & popup builder, and more. Note that PRO Elements is not a substitute for Elementor Pro. If you need all Elementor Pro features, including access to pro templates library and dedicated support, we encourage you to <a href=\"https:\/\/elementor.com\/pro\/\" target=\"_blank\">purchase Elementor Pro<\/a>.",
+                "title": "PRO Elements",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "safe-svg\/safe-svg.php": {
+                "slug": "safe-svg\/safe-svg.php",
+                "name": "Safe SVG",
+                "version": "2.0.3",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/safe-svg\/",
+                "author": "10up",
+                "authorURI": "https:\/\/10up.com",
+                "description": "Enable SVG uploads and sanitize them to stop XML\/SVG vulnerabilities in your WordPress website",
+                "title": "Safe SVG",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-smushit\/wp-smush.php": {
+                "slug": "wp-smushit\/wp-smush.php",
+                "name": "Smush",
+                "version": "3.12.4",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/wp-smushit\/",
+                "author": "WPMU DEV",
+                "authorURI": "https:\/\/profiles.wordpress.org\/wpmudev\/",
+                "description": "Reduce image file sizes, improve performance and boost your SEO using the free <a href=\"https:\/\/wpmudev.com\/\">WPMU DEV<\/a> WordPress Smush API.",
+                "title": "Smush",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "astra-sites\/astra-sites.php": {
+                "slug": "astra-sites\/astra-sites.php",
+                "name": "Starter Templates",
+                "version": "3.1.23",
+                "pluginURI": "https:\/\/wpastra.com\/",
+                "author": "Brainstorm Force",
+                "authorURI": "https:\/\/www.brainstormforce.com",
+                "description": "Starter Templates is all in one solution for complete starter sites, single page templates, blocks & images. This plugin offers the premium library of ready templates & provides quick access to beautiful Pixabay images that can be imported in your website easily.",
+                "title": "Starter Templates",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wpforms-lite\/wpforms.php": {
+                "slug": "wpforms-lite\/wpforms.php",
+                "name": "WPForms Lite",
+                "version": "1.7.9.1",
+                "pluginURI": "https:\/\/wpforms.com",
+                "author": "WPForms",
+                "authorURI": "https:\/\/wpforms.com",
+                "description": "Beginner friendly WordPress contact form plugin. Use our Drag & Drop form builder to create your WordPress forms.",
+                "title": "WPForms Lite",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "astra": {
+                "slug": "astra",
+                "themeName": "Astra",
+                "version": "4.0.2",
+                "themeURI": "https:\/\/wpastra.com\/",
+                "parentTheme": false,
+                "template": "astra",
+                "stylesheet": "astra",
+                "description": "Astra is fast, fully customizable &amp; beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL &amp; Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained &amp; Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!",
+                "author": "Brainstorm Force",
+                "authorURI": "https:\/\/wpastra.com\/about\/?utm_source=theme_preview&utm_medium=author_link&utm_campaign=astra_theme",
+                "tags": [
+                    "custom-menu",
+                    "custom-logo",
+                    "entertainment",
+                    "one-column",
+                    "two-columns",
+                    "left-sidebar",
+                    "e-commerce",
+                    "right-sidebar",
+                    "custom-colors",
+                    "editor-style",
+                    "featured-images",
+                    "full-width-template",
+                    "microformats",
+                    "post-formats",
+                    "rtl-language-support",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "twentytwentyone": {
+                "slug": "twentytwentyone",
+                "themeName": "Twenty Twenty-One",
+                "version": "1.7",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyone\/",
+                "parentTheme": false,
+                "template": "twentytwentyone",
+                "stylesheet": "twentytwentyone",
+                "description": "Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme\u2019s soft colors and eye-catching \u2014 yet timeless \u2014 design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "accessibility-ready",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            },
+            "twentytwentytwo": {
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.3",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Site Editor features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "accessibility-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "jeffshinportfolio"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20230124_jeffshinportfolio_cd78bd2577911fed9995_20230124183159_installer-backup.php",
+    "package_name": "20230124_jeffshinportfolio_cd78bd2577911fed9995_20230124183159_archive.zip",
+    "package_hash": "cd78bd2-24183159",
+    "package_notes": ""
+}

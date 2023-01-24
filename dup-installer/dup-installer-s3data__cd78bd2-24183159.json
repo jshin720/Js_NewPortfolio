@@ -1,0 +1,73 @@
+{
+    "report": {
+        "pass": 0,
+        "chunk": 1,
+        "chunkPos": {
+            "l0": "final_report",
+            "l1": null,
+            "l2": null
+        },
+        "progress_perc": 100,
+        "scan_tables": 26,
+        "scan_rows": 1334,
+        "scan_cells": 7190,
+        "updt_tables": 4,
+        "updt_rows": 114,
+        "updt_cells": 119,
+        "errsql": [],
+        "errser": [],
+        "errkey": [],
+        "errsql_sum": 0,
+        "errser_sum": 0,
+        "errkey_sum": 0,
+        "profile_start": 1674603512.5111,
+        "profile_end": 1674603513.528666,
+        "time": "1.0176 sec.",
+        "err_all": 0,
+        "warn_all": 0,
+        "warnlist": []
+    },
+    "cTableParams": null,
+    "replaceData": [
+        {
+            "id": 0,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "path",
+            "search": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html",
+            "replace": "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio"
+        },
+        {
+            "id": 1,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "path",
+            "search": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html",
+            "replace": "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio"
+        },
+        {
+            "id": 2,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "urlnd",
+            "search": "https:\/\/jeffshinportfolio.com",
+            "replace": "http:\/\/localhost:8888\/allwebsites\/jsportfolio"
+        },
+        {
+            "id": 3,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "urlnd",
+            "search": "https:\/\/jeffshinportfolio.com",
+            "replace": "http:\/\/localhost:8888\/allwebsites\/jsportfolio"
+        }
+    ]
+}

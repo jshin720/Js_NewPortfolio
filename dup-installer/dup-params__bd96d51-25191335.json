@@ -1,0 +1,840 @@
+{
+    "url_old": {
+        "value": "https:\/\/jeffshinportfolio.com",
+        "status": "init"
+    },
+    "wpaddon_sites": {
+        "value": [],
+        "status": "init"
+    },
+    "url_new": {
+        "value": "http:\/\/localhost:8888\/allwebsites\/jsportfolio",
+        "status": "init"
+    },
+    "path_old": {
+        "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html",
+        "status": "init"
+    },
+    "path_new": {
+        "value": "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio",
+        "status": "init"
+    },
+    "siteurl_old": {
+        "value": "https:\/\/jeffshinportfolio.com",
+        "status": "init"
+    },
+    "siteurl": {
+        "value": "http:\/\/localhost:8888\/allwebsites\/jsportfolio\/",
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "path_cont_old": {
+        "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content",
+        "status": "init"
+    },
+    "path_cont_new": {
+        "value": "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio\/wp-content",
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "path_core_old": {
+        "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html",
+        "status": "init"
+    },
+    "path_core_new": {
+        "value": "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio\/",
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "path_upl_old": {
+        "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/uploads",
+        "status": "init"
+    },
+    "path_upl_new": {
+        "value": "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio\/wp-content\/uploads",
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "url_cont_old": {
+        "value": "https:\/\/jeffshinportfolio.com\/wp-content",
+        "status": "init"
+    },
+    "url_cont_new": {
+        "value": "http:\/\/localhost:8888\/allwebsites\/jsportfolio\/wp-content",
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "url_upl_old": {
+        "value": "https:\/\/jeffshinportfolio.com\/wp-content\/uploads",
+        "status": "init"
+    },
+    "url_upl_new": {
+        "value": "http:\/\/localhost:8888\/allwebsites\/jsportfolio\/wp-content\/uploads",
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "url_plug_old": {
+        "value": "https:\/\/jeffshinportfolio.com\/wp-content\/plugins",
+        "status": "init"
+    },
+    "url_plug_new": {
+        "value": "http:\/\/localhost:8888\/allwebsites\/jsportfolio\/wp-content\/plugins",
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "path_plug_old": {
+        "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/plugins",
+        "status": "init"
+    },
+    "path_plug_new": {
+        "value": "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio\/wp-content\/plugins",
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "url_muplug_old": {
+        "value": "https:\/\/jeffshinportfolio.com\/wp-content\/mu-plugins",
+        "status": "init"
+    },
+    "url_muplug_new": {
+        "value": "http:\/\/localhost:8888\/allwebsites\/jsportfolio\/wp-content\/mu-plugins",
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "path_muplug_old": {
+        "value": "\/home\/u533731823\/domains\/jeffshinportfolio.com\/public_html\/wp-content\/mu-plugins",
+        "status": "init"
+    },
+    "path_muplug_new": {
+        "value": "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio\/wp-content\/mu-plugins",
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "final_report": {
+        "value": {
+            "extraction": {
+                "table_count": 26,
+                "table_rows": 2020,
+                "query_errs": 0
+            },
+            "replace": {
+                "scan_tables": 26,
+                "scan_rows": 1931,
+                "scan_cells": 11162,
+                "updt_tables": 4,
+                "updt_rows": 218,
+                "updt_cells": 245,
+                "errsql": [],
+                "errser": [],
+                "errkey": [],
+                "errsql_sum": 0,
+                "errser_sum": 0,
+                "errkey_sum": 0,
+                "err_all": 0,
+                "warn_all": 0,
+                "warnlist": []
+            }
+        },
+        "status": "init"
+    },
+    "inst_mode": {
+        "value": 1,
+        "status": "init"
+    },
+    "ovr_site_data": {
+        "value": {
+            "dupVersion": "1.5.1",
+            "wpVersion": "6.1.1",
+            "dbhost": "localhost",
+            "dbname": "jsportfolio_db",
+            "dbuser": "root",
+            "dbpass": "root",
+            "table_prefix": "wp_",
+            "restUrl": "",
+            "restNonce": "",
+            "restAuthUser": "",
+            "restAuthPassword": "",
+            "isMultisite": false,
+            "subdomain": false,
+            "subsites": [],
+            "nextSubsiteIdAI": -1,
+            "adminUsers": [
+                {
+                    "id": "1",
+                    "user_login": "jeffshin720"
+                }
+            ],
+            "paths": [],
+            "urls": []
+        },
+        "status": "init"
+    },
+    "debug": {
+        "value": false,
+        "status": "init"
+    },
+    "debug_params": {
+        "value": false,
+        "status": "init"
+    },
+    "ctrl_action": {
+        "value": "ctrl-step4",
+        "status": "updinp"
+    },
+    "ctrl_csrf_token": {
+        "value": "",
+        "status": "init"
+    },
+    "template": {
+        "value": "base",
+        "status": "init"
+    },
+    "secure-ok": {
+        "value": false,
+        "status": "init"
+    },
+    "file_perms_value": {
+        "value": "644",
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "set_file_perms": {
+        "value": true,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "dir_perms_value": {
+        "value": "755",
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "set_dir_perms": {
+        "value": true,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "exe_safe_mode": {
+        "value": 0,
+        "status": "init"
+    },
+    "zip_filetime": {
+        "value": "current",
+        "status": "init"
+    },
+    "logging": {
+        "value": 1,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "remove-redundant": {
+        "value": false,
+        "status": "init",
+        "formStatus": "st_disabled"
+    },
+    "remove-users-without-permissions": {
+        "value": false,
+        "status": "init",
+        "formStatus": "st_disabled"
+    },
+    "recovery-link": {
+        "value": "",
+        "status": "init"
+    },
+    "import-info": {
+        "value": [],
+        "status": "init"
+    },
+    "auto-delete": {
+        "value": true,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "install-type": {
+        "value": -1,
+        "status": "updinp",
+        "formStatus": "st_enabled"
+    },
+    "wp_config": {
+        "value": "modify",
+        "status": "init"
+    },
+    "ht_config": {
+        "value": "new",
+        "status": "init"
+    },
+    "other_config": {
+        "value": "new",
+        "status": "init"
+    },
+    "archive_action": {
+        "value": "donothing",
+        "status": "init"
+    },
+    "archive_engine_wpskip": {
+        "value": "none",
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "archive_engine": {
+        "value": "ziparchivechunking",
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "zip_throttling": {
+        "value": false,
+        "status": "init"
+    },
+    "dbaction": {
+        "value": "empty",
+        "status": "updinp"
+    },
+    "db-engine": {
+        "value": "chunk",
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "dbchunk": {
+        "value": true,
+        "status": "init"
+    },
+    "mode_chunking": {
+        "value": 2,
+        "status": "updinp"
+    },
+    "skip_path_replace": {
+        "value": false,
+        "status": "init"
+    },
+    "valid-level": {
+        "value": 2,
+        "status": "init"
+    },
+    "valid-act": {
+        "value": "normal",
+        "status": "init"
+    },
+    "valid-show-all": {
+        "value": false,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "accept-warnings": {
+        "value": true,
+        "status": "updinp",
+        "formStatus": "st_enabled"
+    },
+    "db-display-overwarn": {
+        "value": true,
+        "status": "init"
+    },
+    "view_mode": {
+        "value": "basic",
+        "status": "updinp",
+        "formStatus": "st_enabled"
+    },
+    "dbhost": {
+        "value": "localhost",
+        "status": "updinp",
+        "formStatus": "st_enabled"
+    },
+    "dbname": {
+        "value": "jsportfolio_db",
+        "status": "updinp",
+        "formStatus": "st_enabled"
+    },
+    "dbuser": {
+        "value": "root",
+        "status": "updinp",
+        "formStatus": "st_enabled"
+    },
+    "dbpass": {
+        "value": "root",
+        "status": "updinp",
+        "formStatus": "st_enabled"
+    },
+    "dbflag": {
+        "value": 0,
+        "status": "init"
+    },
+    "dbcharset": {
+        "value": "utf8",
+        "status": "init"
+    },
+    "dbcollate": {
+        "value": "",
+        "status": "init"
+    },
+    "t_prefix": {
+        "value": "wp_",
+        "status": "init"
+    },
+    "dbobj_views": {
+        "value": true,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "dbobj_procs": {
+        "value": true,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "dbobj_funcs": {
+        "value": true,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "db_remove_definer": {
+        "value": false,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "dbsplit_creates": {
+        "value": true,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "dbmysqlmode_opts": {
+        "value": "",
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "dbmysqlmode": {
+        "value": "DEFAULT",
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "tables": {
+        "value": {
+            "wp_actionscheduler_actions": {
+                "name": "wp_actionscheduler_actions",
+                "extract": true,
+                "replace": true
+            },
+            "wp_actionscheduler_claims": {
+                "name": "wp_actionscheduler_claims",
+                "extract": true,
+                "replace": true
+            },
+            "wp_actionscheduler_groups": {
+                "name": "wp_actionscheduler_groups",
+                "extract": true,
+                "replace": true
+            },
+            "wp_actionscheduler_logs": {
+                "name": "wp_actionscheduler_logs",
+                "extract": true,
+                "replace": true
+            },
+            "wp_commentmeta": {
+                "name": "wp_commentmeta",
+                "extract": true,
+                "replace": true
+            },
+            "wp_comments": {
+                "name": "wp_comments",
+                "extract": true,
+                "replace": true
+            },
+            "wp_duplicator_packages": {
+                "name": "wp_duplicator_packages",
+                "extract": true,
+                "replace": true
+            },
+            "wp_e_events": {
+                "name": "wp_e_events",
+                "extract": true,
+                "replace": true
+            },
+            "wp_e_submissions": {
+                "name": "wp_e_submissions",
+                "extract": true,
+                "replace": true
+            },
+            "wp_e_submissions_actions_log": {
+                "name": "wp_e_submissions_actions_log",
+                "extract": true,
+                "replace": true
+            },
+            "wp_e_submissions_values": {
+                "name": "wp_e_submissions_values",
+                "extract": true,
+                "replace": true
+            },
+            "wp_links": {
+                "name": "wp_links",
+                "extract": true,
+                "replace": true
+            },
+            "wp_litespeed_url": {
+                "name": "wp_litespeed_url",
+                "extract": true,
+                "replace": true
+            },
+            "wp_litespeed_url_file": {
+                "name": "wp_litespeed_url_file",
+                "extract": true,
+                "replace": true
+            },
+            "wp_options": {
+                "name": "wp_options",
+                "extract": true,
+                "replace": true
+            },
+            "wp_postmeta": {
+                "name": "wp_postmeta",
+                "extract": true,
+                "replace": true
+            },
+            "wp_posts": {
+                "name": "wp_posts",
+                "extract": true,
+                "replace": true
+            },
+            "wp_smush_dir_images": {
+                "name": "wp_smush_dir_images",
+                "extract": true,
+                "replace": true
+            },
+            "wp_snippets": {
+                "name": "wp_snippets",
+                "extract": true,
+                "replace": true
+            },
+            "wp_termmeta": {
+                "name": "wp_termmeta",
+                "extract": true,
+                "replace": true
+            },
+            "wp_terms": {
+                "name": "wp_terms",
+                "extract": true,
+                "replace": true
+            },
+            "wp_term_relationships": {
+                "name": "wp_term_relationships",
+                "extract": true,
+                "replace": true
+            },
+            "wp_term_taxonomy": {
+                "name": "wp_term_taxonomy",
+                "extract": true,
+                "replace": true
+            },
+            "wp_usermeta": {
+                "name": "wp_usermeta",
+                "extract": true,
+                "replace": true
+            },
+            "wp_users": {
+                "name": "wp_users",
+                "extract": true,
+                "replace": true
+            },
+            "wp_wpforms_tasks_meta": {
+                "name": "wp_wpforms_tasks_meta",
+                "extract": true,
+                "replace": true
+            }
+        },
+        "status": "init"
+    },
+    "blogname": {
+        "value": "jeffshinportfolio",
+        "status": "updinp"
+    },
+    "search_replace_email_domain": {
+        "value": false,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "fullsearch": {
+        "value": false,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "postguid": {
+        "value": false,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "mstrlim": {
+        "value": 4,
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "plugins": {
+        "value": [
+            "code-snippets\/code-snippets.php",
+            "duplicator\/duplicator.php",
+            "elementor\/elementor.php",
+            "Hostinger\/hostinger.php",
+            "litespeed-cache\/litespeed-cache.php",
+            "maintenance\/maintenance.php",
+            "media-player-addons-for-elementor\/media-player-addons.php",
+            "pro-elements\/pro-elements.php",
+            "safe-svg\/safe-svg.php",
+            "wp-smushit\/wp-smush.php",
+            "astra-sites\/astra-sites.php",
+            "wpforms-lite\/wpforms.php"
+        ],
+        "status": "init"
+    },
+    "ignore_plugins": {
+        "value": [],
+        "status": "init"
+    },
+    "fd_plugins": {
+        "value": [],
+        "status": "init"
+    },
+    "users_mode": {
+        "value": "overwrite",
+        "status": "init"
+    },
+    "users_pwd_reset": {
+        "value": {
+            "1": ""
+        },
+        "status": "init"
+    },
+    "wp_new_admin": {
+        "value": false,
+        "status": "init"
+    },
+    "wp_username": {
+        "value": "",
+        "status": "init"
+    },
+    "wp_password": {
+        "value": "",
+        "status": "init"
+    },
+    "wp_mail": {
+        "value": "",
+        "status": "init"
+    },
+    "wp_nickname": {
+        "value": "",
+        "status": "init"
+    },
+    "wp_first_name": {
+        "value": "",
+        "status": "init"
+    },
+    "wp_last_name": {
+        "value": "",
+        "status": "init"
+    },
+    "auth_keys_and_salts": {
+        "value": false,
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_DISALLOW_FILE_EDIT": {
+        "value": {
+            "value": false,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_DISALLOW_FILE_MODS": {
+        "value": {
+            "value": false,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_AUTOSAVE_INTERVAL": {
+        "value": {
+            "value": 60,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_WP_POST_REVISIONS": {
+        "value": {
+            "value": true,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_FORCE_SSL_ADMIN": {
+        "value": {
+            "value": true,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "wpc_AUTOMATIC_UPDATER_DISABLED": {
+        "value": {
+            "value": false,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_WP_AUTO_UPDATE_CORE": {
+        "value": {
+            "value": "minor",
+            "inWpConfig": true
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_IMAGE_EDIT_OVERWRITE": {
+        "value": {
+            "value": true,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_WP_CACHE": {
+        "value": {
+            "value": true,
+            "inWpConfig": true
+        },
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "wpc_WPCACHEHOME": {
+        "value": {
+            "value": "\/",
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "wpc_WP_TEMP_DIR": {
+        "value": {
+            "value": "",
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "wpc_WP_DEBUG": {
+        "value": {
+            "value": false,
+            "inWpConfig": true
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_WP_DEBUG_LOG": {
+        "value": {
+            "value": false,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_WP_DISABLE_FATAL_ERROR_HANDLER": {
+        "value": {
+            "value": false,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_WP_DEBUG_DISPLAY": {
+        "value": {
+            "value": true,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_SCRIPT_DEBUG": {
+        "value": {
+            "value": false,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_CONCATENATE_SCRIPTS": {
+        "value": {
+            "value": false,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_SAVEQUERIES": {
+        "value": {
+            "value": false,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_ALTERNATE_WP_CRON": {
+        "value": {
+            "value": false,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_DISABLE_WP_CRON": {
+        "value": {
+            "value": false,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_WP_CRON_LOCK_TIMEOUT": {
+        "value": {
+            "value": 60,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_EMPTY_TRASH_DAYS": {
+        "value": {
+            "value": 30,
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_COOKIE_DOMAIN": {
+        "value": {
+            "value": "",
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_enabled"
+    },
+    "wpc_WP_MEMORY_LIMIT": {
+        "value": {
+            "value": "40M",
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_WP_MAX_MEMORY_LIMIT": {
+        "value": {
+            "value": "1536M",
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    },
+    "wpc_MYSQL_CLIENT_FLAGS": {
+        "value": {
+            "value": [],
+            "inWpConfig": false
+        },
+        "status": "init",
+        "formStatus": "st_infoonly"
+    }
+}

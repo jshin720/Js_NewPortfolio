@@ -1,0 +1,48 @@
+{
+    "CL_-=_-=": "DUP_Extraction",
+    "zip_filetime": "current",
+    "archive_action": "donothing",
+    "archive_engine": "ziparchivechunking",
+    "extractonStart": 1675112490.211049,
+    "chunkStart": 1675112497.30608,
+    "root_path": "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio\/",
+    "archive_path": "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio\/20230124_jeffshinportfolio_d5846b6c20f1fbaa9479_20230130204739_archive.zip",
+    "ajax1_error_level": 32767,
+    "dawn_status": null,
+    "archive_offset": 9722,
+    "do_chunking": false,
+    "chunkedExtractionCompleted": false,
+    "num_files": 13660,
+    "sub_folder_archive": "",
+    "max_size_extract_at_a_time": 2097152,
+    "zip_arc_chunk_notice_no": -1,
+    "zip_arc_chunk_notice_change_last_time": 0,
+    "zip_arc_chunks_extract_rates": [
+        11154986.600547608,
+        15222594.528203841
+    ],
+    "archive_items_count": 13059,
+    "filters": {
+        "CL_-=_-=": "Duplicator\\Installer\\Core\\Deploy\\Files\\Filters",
+        "files": [
+            "20230124_jeffshinportfolio_d5846b6c20f1fbaa9479_20230130204739_installer-backup.php"
+        ],
+        "dirsWithoutChilds": [],
+        "dirs": [
+            "dup-installer"
+        ]
+    },
+    "removeFilters": {
+        "CL_-=_-=": "Duplicator\\Installer\\Core\\Deploy\\Files\\Filters",
+        "files": [
+            "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio\/20230124_jeffshinportfolio_d5846b6c20f1fbaa9479_20230130204739_installer-backup.php",
+            "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio\/20230124_jeffshinportfolio_d5846b6c20f1fbaa9479_20230130204739_archive.zip",
+            "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio\/installer.php",
+            "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio\/dup-installer-bootlog__d0bce84-30204739.txt"
+        ],
+        "dirsWithoutChilds": [],
+        "dirs": [
+            "\/Users\/jeffshin\/Desktop\/websites\/allwebsites\/jsportfolio\/dup-installer"
+        ]
+    }
+}
